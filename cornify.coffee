@@ -37,6 +37,12 @@ dolphins = [
   'http://yoursmiles.org/gsmile/dolphin/g55007.gif',
   'http://yoursmiles.org/gsmile/dolphin/g55008.gif',
   'http://yoursmiles.org/gsmile/dolphin/g55015.gif',
+  'http://i20.photobucket.com/albums/b244/octgirl62/Glitter%20Pics/3d_animals_048.jpg',
+  'http://i1068.photobucket.com/albums/u454/Anneta296/3d_Digital_Dolphins.jpg',
+  'http://i236.photobucket.com/albums/ff68/trish49/dol59.gif',
+  'http://i794.photobucket.com/albums/yy228/jade95_2010/MERMAIDS/Mermaid-Dolphins.gif',
+  'http://i236.photobucket.com/albums/ff68/trish49/dol42.jpg',
+  'http://www.cornify.com/cornified/image_1374127544214.jpg'
 ]
 
 cornifications = unicorns.concat rainbows.concat dolphins
